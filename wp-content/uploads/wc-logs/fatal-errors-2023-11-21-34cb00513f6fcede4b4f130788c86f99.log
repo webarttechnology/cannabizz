@@ -1,0 +1,9 @@
+2023-11-21T05:45:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_delete_attachment(), 0 passed in /home/webbersunited/public_html/cms/cannabis-newzealand/wp-includes/class-wp-hook.php on line 324 and at least 1 expected in /home/webbersunited/public_html/cms/cannabis-newzealand/wp-includes/post.php:6249
+Stack trace:
+#0 /home/webbersunited/public_html/cms/cannabis-newzealand/wp-includes/class-wp-hook.php(324): wp_delete_attachment()
+#1 /home/webbersunited/public_html/cms/cannabis-newzealand/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/webbersunited/public_html/cms/cannabis-newzealand/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /home/webbersunited/public_html/cms/cannabis-newzealand/wp-cron.php(191): do_action_ref_array('upgrader_schedu...', Array)
+#4 {main}
+  thrown in /home/webbersunited/public_html/cms/cannabis-newzealand/wp-includes/post.php on line 6249
+

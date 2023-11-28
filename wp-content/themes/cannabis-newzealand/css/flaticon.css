@@ -1,0 +1,290 @@
+@font-face {
+  font-family: 'FlaticonCannabis';
+  src:  url('../fonts/flaticon-set-cannabis9dd6.eot?bq12a');
+  src:  url('../fonts/flaticon-set-cannabis9dd6.eot?bq12a#iefix') format('embedded-opentype'),
+    url('../fonts/flaticon-set-cannabis9dd6.ttf?bq12a') format('truetype'),
+    url('../fonts/flaticon-set-cannabis9dd6.woff?bq12a') format('woff'),
+    url('../fonts/flaticon-set-cannabis9dd6.svg?bq12a#FlaticonCannabis') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="flaticon-cannabis-"], [class*=" flaticon-cannabis-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'FlaticonCannabis' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fs1 .pbs{
+  font-size: 70px;
+  margin: 0;
+  max-width: 20%;
+  width: 20%;
+  float: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.mls{
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.fs1 .hidden-true,
+.fs1 .hidden-false{
+  display: none;
+}
+
+.flaticon-cannabis-chocolate:before {
+  content: "\e900";
+}
+.flaticon-cannabis-heart-rate:before {
+  content: "\e901";
+}
+.flaticon-cannabis-bag:before {
+  content: "\e902";
+}
+.flaticon-cannabis-cancer:before {
+  content: "\e903";
+}
+.flaticon-cannabis-molecule:before {
+  content: "\e904";
+}
+.flaticon-cannabis-Marijuana:before {
+  content: "\e905";
+}
+.flaticon-cannabis-olive-oil:before {
+  content: "\e906";
+}
+.flaticon-cannabis-diagram:before {
+  content: "\e907";
+}
+.flaticon-cannabis-bong:before {
+  content: "\e908";
+}
+.flaticon-cannabis-bud:before {
+  content: "\e909";
+}
+.flaticon-cannabis-cupcake:before {
+  content: "\e90a";
+}
+.flaticon-cannabis-heart:before {
+  content: "\e90b";
+}
+.flaticon-cannabis-candy:before {
+  content: "\e90c";
+}
+.flaticon-cannabis-brownie:before {
+  content: "\e90d";
+}
+.flaticon-cannabis-cream:before {
+  content: "\e90e";
+}
+.flaticon-cannabis-online:before {
+  content: "\e90f";
+}
+.flaticon-cannabis-scales:before {
+  content: "\e910";
+}
+.flaticon-cannabis-certification:before {
+  content: "\e911";
+}
+.flaticon-cannabis-pipe:before {
+  content: "\e912";
+}
+.flaticon-cannabis-book:before {
+  content: "\e913";
+}
+.flaticon-cannabis-pills:before {
+  content: "\e914";
+}
+.flaticon-cannabis-greenhouse:before {
+  content: "\e915";
+}
+.flaticon-cannabis-placeholder:before {
+  content: "\e916";
+}
+.flaticon-cannabis-cultivation:before {
+  content: "\e917";
+}
+.flaticon-cannabis-can:before {
+  content: "\e918";
+}
+.flaticon-cannabis-vape:before {
+  content: "\e919";
+}
+.flaticon-cannabis-cookies:before {
+  content: "\e91a";
+}
+.flaticon-cannabis-oil:before {
+  content: "\e91b";
+}
+.flaticon-cannabis-hydrophonics:before {
+  content: "\e91c";
+}
+.flaticon-cannabis-medicine:before {
+  content: "\e91d";
+}
+.flaticon-cannabis-magnifying-glass:before {
+  content: "\e91e";
+}
+.flaticon-cannabis-Marijuana1:before {
+  content: "\e91f";
+}
+.flaticon-cannabis-sleep:before {
+  content: "\e920";
+}
+.flaticon-cannabis-Marijuana2:before {
+  content: "\e921";
+}
+.flaticon-cannabis-shop:before {
+  content: "\e922";
+}
+.flaticon-cannabis-shopping-bag:before {
+  content: "\e923";
+}
+.flaticon-cannabis-tea:before {
+  content: "\e924";
+}
+.flaticon-cannabis-extraction:before {
+  content: "\e925";
+}
+.flaticon-cannabis-joint:before {
+  content: "\e926";
+}
+.flaticon-cannabis-legal:before {
+  content: "\e927";
+}
+.flaticon-cannabis-medal:before {
+  content: "\e928";
+}
+.flaticon-cannabis-cigar:before {
+  content: "\e929";
+}
+.flaticon-cannabis-flask:before {
+  content: "\e92a";
+}
+.flaticon-cannabis-tincture:before {
+  content: "\e92b";
+}
+.flaticon-cannabis-stethoscope:before {
+  content: "\e92c";
+}
+.flaticon-cannabis-no-thc:before {
+  content: "\e92d";
+}
+.flaticon-cannabis-card:before {
+  content: "\e92e";
+}
+.flaticon-cannabis-prescription:before {
+  content: "\e92f";
+}
+.flaticon-cannabis-body-lotion:before {
+  content: "\e930";
+}
+.flaticon-cannabis-inhaler:before {
+  content: "\e931";
+}
+.flaticon-cannabis-cannabis-oil:before {
+  content: "\e932";
+}
+.flaticon-cannabis-research:before {
+  content: "\e933";
+}
+.flaticon-cannabis-scales1:before {
+  content: "\e934";
+}
+.flaticon-cannabis-seeds:before {
+  content: "\e935";
+}
+.flaticon-cannabis-serum:before {
+  content: "\e936";
+}
+.flaticon-cannabis-stock:before {
+  content: "\e937";
+}
+.flaticon-cannabis-store:before {
+  content: "\e938";
+}
+.flaticon-cannabis-t-shirt:before {
+  content: "\e939";
+}
+.flaticon-cannabis-tea1:before {
+  content: "\e93a";
+}
+.flaticon-cannabis-test-tube:before {
+  content: "\e93b";
+}
+.flaticon-cannabis-watering:before {
+  content: "\e93c";
+}
+.flaticon-cannabis-lips:before {
+  content: "\e93d";
+}
+.flaticon-cannabis-cannabis-law:before {
+  content: "\e93e";
+}
+.flaticon-cannabis-slow:before {
+  content: "\e93f";
+}
+.flaticon-cannabis-bored:before {
+  content: "\e940";
+}
+.flaticon-cannabis-leaf:before {
+  content: "\e941";
+}
+.flaticon-cannabis-bong1:before {
+  content: "\e942";
+}
+.flaticon-cannabis-chocolate1:before {
+  content: "\e943";
+}
+.flaticon-cannabis-cream1:before {
+  content: "\e944";
+}
+.flaticon-cannabis-cupcake1:before {
+  content: "\e945";
+}
+.flaticon-cannabis-delivery-truck:before {
+  content: "\e946";
+}
+.flaticon-cannabis-cold-drink:before {
+  content: "\e947";
+}
+.flaticon-cannabis-medicine1:before {
+  content: "\e948";
+}
+.flaticon-cannabis-planting:before {
+  content: "\e949";
+}
+.flaticon-cannabis-growing-plant:before {
+  content: "\e94a";
+}
+.flaticon-cannabis-envelope:before {
+  content: "\e94b";
+}
+.flaticon-cannabis-pot:before {
+  content: "\e94c";
+}
+.flaticon-cannabis-body-lotion1:before {
+  content: "\e94d";
+}
+.flaticon-cannabis-medical:before {
+  content: "\e94e";
+}
+.flaticon-cannabis-medical1:before {
+  content: "\e94f";
+}

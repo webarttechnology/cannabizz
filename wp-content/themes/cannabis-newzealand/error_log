@@ -1,0 +1,8 @@
+[20-Nov-2023 07:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/webbersunited/public_html/cms/cannabis-newzealand/wp-content/themes/cannabis-newzealand/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webbersunited/public_html/cms/cannabis-newzealand/wp-content/themes/cannabis-newzealand/index.php on line 17
+[20-Nov-2023 07:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/webbersunited/public_html/cms/cannabis-newzealand/wp-content/themes/cannabis-newzealand/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/webbersunited/public_html/cms/cannabis-newzealand/wp-content/themes/cannabis-newzealand/index.php on line 17
